@@ -1,6 +1,6 @@
 # Meridio - File Hosting Social Media(July 2017)
 Meridio is a filehosting and filesharing platform with an inbuilt messaging/chatting application.
-### Meridio - A Walkthrough
+### Meridio - The Walkthrough
 Merídio(<i>Greek</i>-Share) is a free Filehosting platform where users can host their own repositories of files/videos/images etc and thus make it available for download by any of the registered members of the website.The key aim is to create a network of users who can host items in their repositories and allow other people to access the repository contents and also download stuff from others repositories.Merídio also has an inbuilt chat feature where you can add friends via requests and chat with your friends.
 ### Signup and Login Page
 Meridio prompts you for some user details for sign up. These are the starting steps in the creation of a user profile.
